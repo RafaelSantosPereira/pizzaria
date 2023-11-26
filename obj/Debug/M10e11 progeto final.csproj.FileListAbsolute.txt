@@ -1,0 +1,24 @@
+C:\Users\11PGPS2\Desktop\progetos psi\M10e11 progeto final\M10e11 progeto final\bin\Debug\M10e11 progeto final.exe.config
+C:\Users\11PGPS2\Desktop\progetos psi\M10e11 progeto final\M10e11 progeto final\bin\Debug\M10e11 progeto final.exe
+C:\Users\11PGPS2\Desktop\progetos psi\M10e11 progeto final\M10e11 progeto final\bin\Debug\M10e11 progeto final.pdb
+C:\Users\11PGPS2\Desktop\progetos psi\M10e11 progeto final\M10e11 progeto final\obj\Debug\M10e11 progeto final.csproj.AssemblyReference.cache
+C:\Users\11PGPS2\Desktop\progetos psi\M10e11 progeto final\M10e11 progeto final\obj\Debug\M10e11 progeto final.csproj.SuggestedBindingRedirects.cache
+C:\Users\11PGPS2\Desktop\progetos psi\M10e11 progeto final\M10e11 progeto final\obj\Debug\M10e11_progeto_final.Form1.resources
+C:\Users\11PGPS2\Desktop\progetos psi\M10e11 progeto final\M10e11 progeto final\obj\Debug\M10e11_progeto_final.Properties.Resources.resources
+C:\Users\11PGPS2\Desktop\progetos psi\M10e11 progeto final\M10e11 progeto final\obj\Debug\M10e11 progeto final.csproj.GenerateResource.cache
+C:\Users\11PGPS2\Desktop\progetos psi\M10e11 progeto final\M10e11 progeto final\obj\Debug\M10e11 progeto final.csproj.CoreCompileInputs.cache
+C:\Users\11PGPS2\Desktop\progetos psi\M10e11 progeto final\M10e11 progeto final\obj\Debug\M10e11 progeto final.exe
+C:\Users\11PGPS2\Desktop\progetos psi\M10e11 progeto final\M10e11 progeto final\obj\Debug\M10e11 progeto final.pdb
+C:\Users\11PGPS2\Desktop\progetos psi\M10e11 progeto final\M10e11 progeto final\obj\Debug\M10e11_progeto_final.form_lista.resources
+E:\Psi\M10e11 progeto final\M10e11 progeto final\bin\Debug\M10e11 progeto final.exe.config
+E:\Psi\M10e11 progeto final\M10e11 progeto final\bin\Debug\M10e11 progeto final.exe
+E:\Psi\M10e11 progeto final\M10e11 progeto final\bin\Debug\M10e11 progeto final.pdb
+E:\Psi\M10e11 progeto final\M10e11 progeto final\obj\Debug\M10e11 progeto final.csproj.AssemblyReference.cache
+E:\Psi\M10e11 progeto final\M10e11 progeto final\obj\Debug\M10e11 progeto final.csproj.SuggestedBindingRedirects.cache
+E:\Psi\M10e11 progeto final\M10e11 progeto final\obj\Debug\M10e11_progeto_final.Form1.resources
+E:\Psi\M10e11 progeto final\M10e11 progeto final\obj\Debug\M10e11_progeto_final.form_lista.resources
+E:\Psi\M10e11 progeto final\M10e11 progeto final\obj\Debug\M10e11_progeto_final.Properties.Resources.resources
+E:\Psi\M10e11 progeto final\M10e11 progeto final\obj\Debug\M10e11 progeto final.csproj.GenerateResource.cache
+E:\Psi\M10e11 progeto final\M10e11 progeto final\obj\Debug\M10e11 progeto final.csproj.CoreCompileInputs.cache
+E:\Psi\M10e11 progeto final\M10e11 progeto final\obj\Debug\M10e11 progeto final.exe
+E:\Psi\M10e11 progeto final\M10e11 progeto final\obj\Debug\M10e11 progeto final.pdb

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfPizas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <pizas>
+    <molho>molho de tomate</molho>
+    <queijo>queijo muçarela</queijo>
+    <Nome>ola</Nome>
+    <Credito>5444444444444444</Credito>
+    <Telefone>888888888</Telefone>
+    <Quantidade>2</Quantidade>
+    <Preco>18</Preco>
+    <Sabor>4 queijos</Sabor>
+    <Morada>fds</Morada>
+    <Tamanho>Media</Tamanho>
+  </pizas>
+  <pizas>
+    <molho>molho de tomate</molho>
+    <queijo>queijo muçarela</queijo>
+    <Nome>ola</Nome>
+    <Credito>2222222222222222</Credito>
+    <Telefone>666666666</Telefone>
+    <Quantidade>1</Quantidade>
+    <Preco>9</Preco>
+    <Sabor>4 queijos</Sabor>
+    <Morada>fghdfht</Morada>
+    <Tamanho>Media</Tamanho>
+  </pizas>
+</ArrayOfPizas>
